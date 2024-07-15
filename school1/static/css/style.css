@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: blue;
+  background-color: gray;
+  font-weight: bold;
+}
+
+.header {
+
+
+}
+
+.main {
+  color: blue;
+  background-color: gray;
+  text-align: center;
+}
+
+.footer {
+
+}
